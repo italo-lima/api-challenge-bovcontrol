@@ -1,0 +1,9 @@
+{
+  "name": "default",
+  "type": "mongodb",
+  "host": "localhost",
+  "port": 27017,
+  "useUnifiedTopology": true,
+  "database": "bovcontrol",
+  "entities": ["./src/modules/**/infra/typeorm/schemas/*.ts"]
+}
