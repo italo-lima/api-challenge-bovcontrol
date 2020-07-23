@@ -37,9 +37,9 @@ Pronto, agora é possível conectar API utilizando [LocalHost](http://localhost:
 ```
 {
   "type": "Cavalo",
-	"name": "Marronzinha",
-	"weight": 210.5,
-	"age_months": 8
+  "name": "Marronzinha",
+  "weight": 210.5,
+  "age_months": 8
 }
 ```
 
